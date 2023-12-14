@@ -1,7 +1,7 @@
 # Applied Machine Learning
 
 
-This are the assignments from the course Applied Machine Learning at Chalmers University of Technology. I took the course in the spring semester 2023, and worked together with [Dylan](https://github.com/Nalyd1019).
+These are the assignments from the course Applied Machine Learning. The assignments were done together with [Lisa](https://github.com/lisaelsi).
 
 ### Assignment 1
 Introductory tour and decision trees
